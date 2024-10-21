@@ -6,5 +6,5 @@ dependencies:
   - python=3.11.1
   - manim=0.18.1
   - pip
-  - numpy=1.21.5
+  - numpy=2.1.0
 prefix: /opt/anaconda3/envs/maths_avec_manim
