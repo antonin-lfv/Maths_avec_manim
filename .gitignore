@@ -1,0 +1,6 @@
+/media
+
+# all .pyc files
+*.pyc
+
+.DS_Store
